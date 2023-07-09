@@ -29,7 +29,7 @@ header {
     justify-content: center;
 }
 
-.text_contaier_1 {
+.text_container_1 {
     font-size: 2.625rem;
     font-weight: 300;
 }
@@ -54,4 +54,9 @@ header {
 
 .download_link_2 a{
     color: aquamarine;
+}
+
+footer {
+    text-align: right;
+    color: gray;
 }
