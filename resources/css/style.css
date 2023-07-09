@@ -8,6 +8,7 @@ html, body {
 body {
     font-size: 16px;
     font-family: Verdana;
+    color: white;
     background-color: black;
     display: flex;
     flex-flow: column wrap;
@@ -15,3 +16,4 @@ body {
 }
 
 /* Home Page Styles */
+
