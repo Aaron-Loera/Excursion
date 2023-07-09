@@ -12,8 +12,46 @@ body {
     background-color: black;
     display: flex;
     flex-flow: column wrap;
-    align-content: center;
+    justify-content: center;
+    text-align: center;
 }
 
 /* Home Page Styles */
+header {
+    font-size: 3.125rem;
+}
 
+.download_link_1 a{
+    color: aquamarine;
+}
+
+.excursion_video {
+    justify-content: center;
+}
+
+.text_contaier_1 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.subtext_container_1 {
+    font-size: 1.3125rem;
+    color: grey;
+}
+
+.camping_img {
+    justify-content: center;
+}
+
+.phone_png {
+    justify-content: center;
+}
+
+.text_container_2 {
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+
+.download_link_2 a{
+    color: aquamarine;
+}
